@@ -1,4 +1,4 @@
-24749563058421918
+24751297098354916
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6495,6 +6495,13 @@ SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5
 0
 4
 4
+Components
+TO-220-5L_L10.2-W4.5-P1.71-L
+
+
+0
+5
+5
 Components
 TVS_ESDA25P35-1U1M
 

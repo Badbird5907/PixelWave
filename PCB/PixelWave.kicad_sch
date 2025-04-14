@@ -86740,7 +86740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Horizontal_TabDown"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
 			(at 353.06 38.1 0)
 			(effects
 				(font
