@@ -70933,7 +70933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3"
+		(property "Footprint" "Components:TO-220-5L_L10.2-W4.5-P1.71-L"
 			(at 356.87 44.45 0)
 			(effects
 				(font
