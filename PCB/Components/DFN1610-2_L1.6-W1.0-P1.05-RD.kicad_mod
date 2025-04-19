@@ -249,7 +249,7 @@
 		(uuid "c0d8e9ec-88a4-43ec-823a-89a9ae5b3c70")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/DFN1610-2_L1.6-W1.0-P1.05-RD.step"
+	(model "${KIPRJMOD}/Components/QFN1610_STM.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -257,7 +257,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )
