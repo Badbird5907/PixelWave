@@ -6,5 +6,4 @@
   (lib (name "Button")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/Button.elibz")(options "")(descr ""))
   (lib (name "STL6P3LLH6")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/STL6P3LLH6.elibz")(options "")(descr ""))
   (lib (name "XR106125TS470MV1L5")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/XR106125TS470MV1L5.elibz")(options "")(descr ""))
-  (lib (name "C1974707")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/C1974707.elibz")(options "")(descr ""))
 )
